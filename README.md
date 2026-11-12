@@ -16,6 +16,8 @@ Self-hosted alternative to Razorpay / Cashfree for UPI collections, built with *
 
 [Features](#-features) · [Architecture](#-architecture) · [Quick Start](#-quick-start) · [API](#-merchant-api) · [Webhooks](#-webhooks) · [Screenshots](#-how-it-works)
 
+Made by **[Pawan Kumar](https://github.com/pawan941394)** · [YouTube](https://www.youtube.com/@Pawankumar-py4tk) · [LinkedIn](https://www.linkedin.com/in/pawan941394/) · [Website](https://bharataiconnect.com/)
+
 </div>
 
 ---
@@ -236,6 +238,25 @@ Stars ⭐, issues and PRs are very welcome!
 
 1. Fork → `git checkout -b feat/my-feature`
 2. Commit → `git push` → open a PR
+
+---
+
+## 👨‍💻 Author
+
+<div align="center">
+
+**Built with ❤️ by Pawan Kumar**
+
+*Python developer · AI & automation · Building in public*
+
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Pawankumar-py4tk)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pawan941394/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pawan941394)
+[![Website](https://img.shields.io/badge/Website-bharataiconnect.com-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://bharataiconnect.com/)
+
+📺 **I share Python, AI and real-world project builds on YouTube — [subscribe here](https://www.youtube.com/@Pawankumar-py4tk)**
+
+</div>
 
 ---
 
